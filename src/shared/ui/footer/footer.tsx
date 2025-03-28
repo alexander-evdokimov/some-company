@@ -2,8 +2,6 @@
 import React from "react";
 import styled from "styled-components";
 import { Container } from "../container";
-import Link from "next/link";
-import { ROUTES } from "@/shared/constants/routes";
 
 interface Props {
   className?: string;
